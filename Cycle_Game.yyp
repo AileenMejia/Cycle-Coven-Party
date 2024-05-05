@@ -52,8 +52,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Parallax","path":"rooms/Parallax/Parallax.yy",},},
     {"roomId":{"name":"Rm_tutorial","path":"rooms/Rm_tutorial/Rm_tutorial.yy",},},
+    {"roomId":{"name":"Parallax","path":"rooms/Parallax/Parallax.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
