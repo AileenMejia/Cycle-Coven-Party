@@ -1,4 +1,8 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_Parallax_Control","order":1,"path":"objects/obj_Parallax_Control/obj_Parallax_Control.yy",},
+    {"name":"obj_text","order":2,"path":"objects/obj_text/obj_text.yy",},
+    {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
+  ],
 }
