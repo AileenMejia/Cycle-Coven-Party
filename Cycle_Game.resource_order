@@ -1,11 +1,13 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"obj_camera","order":6,"path":"objects/obj_camera/obj_camera.yy",},
     {"name":"obj_Exit","order":2,"path":"objects/obj_Exit/obj_Exit.yy",},
     {"name":"obj_menu_info","order":4,"path":"objects/obj_menu_info/obj_menu_info.yy",},
     {"name":"obj_menu_logo","order":5,"path":"objects/obj_menu_logo/obj_menu_logo.yy",},
     {"name":"obj_menu_play","order":3,"path":"objects/obj_menu_play/obj_menu_play.yy",},
     {"name":"obj_Settings","order":1,"path":"objects/obj_Settings/obj_Settings.yy",},
+    {"name":"obj_Parallax_Control","order":7,"path":"objects/obj_Parallax_Control/obj_Parallax_Control.yy",},
     {"name":"rm_Credits","order":2,"path":"rooms/rm_Credits/rm_Credits.yy",},
     {"name":"rm_Flight","order":3,"path":"rooms/rm_Flight/rm_Flight.yy",},
     {"name":"rm_Menu","order":1,"path":"rooms/rm_Menu/rm_Menu.yy",},
