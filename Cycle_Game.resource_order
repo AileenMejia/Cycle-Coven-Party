@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"fnt_dialog","order":1,"path":"fonts/fnt_dialog/fnt_dialog.yy",},
     {"name":"obj_camera","order":6,"path":"objects/obj_camera/obj_camera.yy",},
     {"name":"obj_Exit","order":2,"path":"objects/obj_Exit/obj_Exit.yy",},
     {"name":"obj_menu_info","order":4,"path":"objects/obj_menu_info/obj_menu_info.yy",},
@@ -15,6 +16,7 @@
     {"name":"rm_Menu","order":1,"path":"rooms/rm_Menu/rm_Menu.yy",},
     {"name":"B_clouds","order":13,"path":"sprites/B_clouds/B_clouds.yy",},
     {"name":"B_Distant_Ground","order":14,"path":"sprites/B_Distant_Ground/B_Distant_Ground.yy",},
+    {"name":"B_Foreground","order":17,"path":"sprites/B_Foreground/B_Foreground.yy",},
     {"name":"B_Ground_Path","order":15,"path":"sprites/B_Ground_Path/B_Ground_Path.yy",},
     {"name":"B_Near_Ground","order":16,"path":"sprites/B_Near_Ground/B_Near_Ground.yy",},
     {"name":"spr_Button","order":10,"path":"sprites/spr_Button/spr_Button.yy",},
@@ -29,6 +31,5 @@
     {"name":"spr_Menu_BG","order":12,"path":"sprites/spr_Menu_BG/spr_Menu_BG.yy",},
     {"name":"spr_Rabbit","order":3,"path":"sprites/spr_Rabbit/spr_Rabbit.yy",},
     {"name":"spr_You","order":8,"path":"sprites/spr_You/spr_You.yy",},
-    {"name":"B_Foreground","order":17,"path":"sprites/B_Foreground/B_Foreground.yy",},
   ],
 }
