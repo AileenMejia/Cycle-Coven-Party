@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_menu_logo",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_menu_logo",
   "overriddenProperties":[],
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_Logo",
+    "path":"sprites/spr_Logo/spr_Logo.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
