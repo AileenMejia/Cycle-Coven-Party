@@ -1,14 +1,18 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"obj_jump_through","order":3,"path":"objects/obj_jump_through/obj_jump_through.yy",},
     {"name":"obj_Parallax_Control","order":1,"path":"objects/obj_Parallax_Control/obj_Parallax_Control.yy",},
     {"name":"obj_text","order":2,"path":"objects/obj_text/obj_text.yy",},
     {"name":"Parallax","order":1,"path":"rooms/Parallax/Parallax.yy",},
+    {"name":"Rm_level_1","order":2,"path":"rooms/Rm_level_1/Rm_level_1.yy",},
     {"name":"B_Clouds","order":1,"path":"sprites/B_Clouds/B_Clouds.yy",},
     {"name":"B_Distant_Ground","order":3,"path":"sprites/B_Distant_Ground/B_Distant_Ground.yy",},
+    {"name":"B_Foreground","order":6,"path":"sprites/B_Foreground/B_Foreground.yy",},
     {"name":"B_Ground_Path","order":5,"path":"sprites/B_Ground_Path/B_Ground_Path.yy",},
     {"name":"B_Near_Ground","order":4,"path":"sprites/B_Near_Ground/B_Near_Ground.yy",},
     {"name":"bck_cabin","order":2,"path":"sprites/bck_cabin/bck_cabin.yy",},
-    {"name":"B_Foreground","order":6,"path":"sprites/B_Foreground/B_Foreground.yy",},
+    {"name":"spr_jump_through","order":7,"path":"sprites/spr_jump_through/spr_jump_through.yy",},
+    {"name":"spr_normal_wall","order":8,"path":"sprites/spr_normal_wall/spr_normal_wall.yy",},
   ],
 }
