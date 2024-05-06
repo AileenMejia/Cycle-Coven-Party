@@ -9,9 +9,11 @@
     {"name":"obj_Parallax_Control","order":7,"path":"objects/obj_Parallax_Control/obj_Parallax_Control.yy",},
     {"name":"obj_Settings","order":1,"path":"objects/obj_Settings/obj_Settings.yy",},
     {"name":"obj_text","order":8,"path":"objects/obj_text/obj_text.yy",},
+    {"name":"Parallax","order":4,"path":"rooms/Parallax/Parallax.yy",},
     {"name":"rm_Credits","order":2,"path":"rooms/rm_Credits/rm_Credits.yy",},
     {"name":"rm_Flight","order":3,"path":"rooms/rm_Flight/rm_Flight.yy",},
     {"name":"rm_Menu","order":1,"path":"rooms/rm_Menu/rm_Menu.yy",},
+    {"name":"B_clouds","order":13,"path":"sprites/B_clouds/B_clouds.yy",},
     {"name":"spr_Button","order":10,"path":"sprites/spr_Button/spr_Button.yy",},
     {"name":"spr_Cat","order":5,"path":"sprites/spr_Cat/spr_Cat.yy",},
     {"name":"spr_Crow","order":1,"path":"sprites/spr_Crow/spr_Crow.yy",},
@@ -24,5 +26,6 @@
     {"name":"spr_Menu_BG","order":12,"path":"sprites/spr_Menu_BG/spr_Menu_BG.yy",},
     {"name":"spr_Rabbit","order":3,"path":"sprites/spr_Rabbit/spr_Rabbit.yy",},
     {"name":"spr_You","order":8,"path":"sprites/spr_You/spr_You.yy",},
+    {"name":"B_Distant_Ground","order":14,"path":"sprites/B_Distant_Ground/B_Distant_Ground.yy",},
   ],
 }
