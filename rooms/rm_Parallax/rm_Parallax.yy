@@ -1,12 +1,12 @@
 {
   "$GMRoom":"",
-  "%Name":"Parallax",
+  "%Name":"rm_Parallax",
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_7F56B0A","path":"rooms/Parallax/Parallax.yy",},
+    {"name":"inst_7F56B0A","path":"rooms/rm_Parallax/rm_Parallax.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -19,7 +19,7 @@
     {"$GMRBackgroundLayer":"","%Name":"B_Distant_Ground","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"B_Distant_Ground","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"B_Distant_Ground","path":"sprites/B_Distant_Ground/B_Distant_Ground.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
     {"$GMRBackgroundLayer":"","%Name":"B_Clouds","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"B_Clouds","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"B_clouds","path":"sprites/B_clouds/B_clouds.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-  "name":"Parallax",
+  "name":"rm_Parallax",
   "parent":{
     "name":"Rooms",
     "path":"folders/Rooms.yy",
