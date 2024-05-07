@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 text [0] = "Hello World";
-text [1] = "he will never give you up, never let you down, never run around and desert you he will never make you cry and will never say goodbye";
+text [1] = "NEVER GONNA GIVE YOU UP NEVER GONNA LET YOU DOWN NEVER GONNA RUN AROUND AND DESERT YOU NEVER GONNA SAY GOODBYE NEVER GONNA MAKE YOU CRY";
 
 text_current = 0;
 text_last = 1;
