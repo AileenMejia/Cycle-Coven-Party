@@ -14,6 +14,7 @@
     {"name":"rm_Credits","order":2,"path":"rooms/rm_Credits/rm_Credits.yy",},
     {"name":"rm_Flight","order":3,"path":"rooms/rm_Flight/rm_Flight.yy",},
     {"name":"rm_Menu","order":1,"path":"rooms/rm_Menu/rm_Menu.yy",},
+    {"name":"rm_Tutorial","order":5,"path":"rooms/rm_Tutorial/rm_Tutorial.yy",},
     {"name":"B_clouds","order":13,"path":"sprites/B_clouds/B_clouds.yy",},
     {"name":"B_Distant_Ground","order":14,"path":"sprites/B_Distant_Ground/B_Distant_Ground.yy",},
     {"name":"B_Foreground","order":17,"path":"sprites/B_Foreground/B_Foreground.yy",},
@@ -31,5 +32,6 @@
     {"name":"spr_Menu_BG","order":12,"path":"sprites/spr_Menu_BG/spr_Menu_BG.yy",},
     {"name":"spr_Rabbit","order":3,"path":"sprites/spr_Rabbit/spr_Rabbit.yy",},
     {"name":"spr_You","order":8,"path":"sprites/spr_You/spr_You.yy",},
+    {"name":"spr_cabin","order":18,"path":"sprites/spr_cabin/spr_cabin.yy",},
   ],
 }
