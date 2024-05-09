@@ -46,6 +46,7 @@
     {"id":{"name":"obj_Parallax_Control","path":"objects/obj_Parallax_Control/obj_Parallax_Control.yy",},},
     {"id":{"name":"obj_text","path":"objects/obj_text/obj_text.yy",},},
     {"id":{"name":"obj_You","path":"objects/obj_You/obj_You.yy",},},
+    {"id":{"name":"obj_Credits","path":"objects/obj_Credits/obj_Credits.yy",},},
     {"id":{"name":"OWall","path":"objects/OWall/OWall.yy",},},
     {"id":{"name":"rm_Credits","path":"rooms/rm_Credits/rm_Credits.yy",},},
     {"id":{"name":"rm_Flight","path":"rooms/rm_Flight/rm_Flight.yy",},},
