@@ -1,14 +1,21 @@
 {
-  "FolderOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"Sounds","order":14,"path":"folders/Sprites/Sounds.yy",},
+  ],
   "ResourceOrderSettings":[
     {"name":"obj_Exit","order":2,"path":"objects/obj_Exit/obj_Exit.yy",},
     {"name":"obj_menu_info","order":4,"path":"objects/obj_menu_info/obj_menu_info.yy",},
     {"name":"obj_menu_logo","order":5,"path":"objects/obj_menu_logo/obj_menu_logo.yy",},
     {"name":"obj_menu_play","order":3,"path":"objects/obj_menu_play/obj_menu_play.yy",},
     {"name":"obj_Settings","order":1,"path":"objects/obj_Settings/obj_Settings.yy",},
+    {"name":"obj_You_IDLE","order":6,"path":"objects/obj_You_IDLE/obj_You_IDLE.yy",},
+    {"name":"obj_You_JUMP","order":8,"path":"objects/obj_You_JUMP/obj_You_JUMP.yy",},
+    {"name":"obj_You_WALK","order":7,"path":"objects/obj_You_WALK/obj_You_WALK.yy",},
+    {"name":"obj_room_BG","order":9,"path":"objects/obj_room_BG/obj_room_BG.yy",},
     {"name":"rm_Credits","order":2,"path":"rooms/rm_Credits/rm_Credits.yy",},
     {"name":"rm_Flight","order":3,"path":"rooms/rm_Flight/rm_Flight.yy",},
     {"name":"rm_Menu","order":1,"path":"rooms/rm_Menu/rm_Menu.yy",},
+    {"name":"rm_Tutorial","order":4,"path":"rooms/rm_Tutorial/rm_Tutorial.yy",},
     {"name":"spr_Button","order":10,"path":"sprites/spr_Button/spr_Button.yy",},
     {"name":"spr_Cat","order":5,"path":"sprites/spr_Cat/spr_Cat.yy",},
     {"name":"spr_Crow","order":1,"path":"sprites/spr_Crow/spr_Crow.yy",},
@@ -20,6 +27,9 @@
     {"name":"spr_Luna","order":7,"path":"sprites/spr_Luna/spr_Luna.yy",},
     {"name":"spr_Menu_BG","order":12,"path":"sprites/spr_Menu_BG/spr_Menu_BG.yy",},
     {"name":"spr_Rabbit","order":3,"path":"sprites/spr_Rabbit/spr_Rabbit.yy",},
-    {"name":"spr_You","order":8,"path":"sprites/spr_You/spr_You.yy",},
+    {"name":"spr_room_BG","order":13,"path":"sprites/spr_room_BG/spr_room_BG.yy",},
+    {"name":"spr_You_IDLE","order":8,"path":"sprites/spr_You_IDLE/spr_You_IDLE.yy",},
+    {"name":"spr_You_JUMP","order":16,"path":"sprites/spr_You_JUMP/spr_You_JUMP.yy",},
+    {"name":"spr_You_WALK","order":15,"path":"sprites/spr_You_WALK/spr_You_WALK.yy",},
   ],
 }
