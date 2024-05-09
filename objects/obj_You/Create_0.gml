@@ -1,4 +1,4 @@
 /// @description Insert description here
-spd = 2;
+spd = 5;
 xSpeed = 0;
 ySpeed = 0;

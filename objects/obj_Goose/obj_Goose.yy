@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Settings",
-  "eventList":[],
+  "%Name":"obj_Goose",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_Settings",
+  "name":"obj_Goose",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_Goose",
+    "path":"sprites/spr_Goose/spr_Goose.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
