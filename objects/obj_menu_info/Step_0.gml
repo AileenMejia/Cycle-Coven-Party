@@ -13,5 +13,5 @@ else
 
 if position_meeting (mouse_x, mouse_y, id) && mouse_check_button_released(mb_left)
 {
-	room_goto(rm_Credits)
+	room_goto(rm_Parallax)
 }
