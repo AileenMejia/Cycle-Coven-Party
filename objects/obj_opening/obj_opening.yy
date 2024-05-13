@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_Opening",
-    "path":"sprites/spr_Opening/spr_Opening.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
