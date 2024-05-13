@@ -13,7 +13,7 @@ if (onTheGround)
 {
 	if (xDirection != 0) 
 	{ 
-		sprite_index = spr_Goose;
+		sprite_index = spr_Goose_Walk;
 		}
 	else 
 	{ 
