@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"OWall",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"","%Name":"","eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"OWall",
   "overriddenProperties":[],
