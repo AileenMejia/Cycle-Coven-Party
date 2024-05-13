@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"Cycle_Game",
   "resources":[
@@ -44,6 +44,7 @@
     {"id":{"name":"obj_menu_info","path":"objects/obj_menu_info/obj_menu_info.yy",},},
     {"id":{"name":"obj_menu_logo","path":"objects/obj_menu_logo/obj_menu_logo.yy",},},
     {"id":{"name":"obj_menu_play","path":"objects/obj_menu_play/obj_menu_play.yy",},},
+    {"id":{"name":"obj_opening","path":"objects/obj_opening/obj_opening.yy",},},
     {"id":{"name":"obj_Parallax_Control","path":"objects/obj_Parallax_Control/obj_Parallax_Control.yy",},},
     {"id":{"name":"obj_splash","path":"objects/obj_splash/obj_splash.yy",},},
     {"id":{"name":"obj_text","path":"objects/obj_text/obj_text.yy",},},
@@ -55,6 +56,7 @@
     {"id":{"name":"rm_Parallax","path":"rooms/rm_Parallax/rm_Parallax.yy",},},
     {"id":{"name":"rm_Splash","path":"rooms/rm_Splash/rm_Splash.yy",},},
     {"id":{"name":"rm_Tutorial","path":"rooms/rm_Tutorial/rm_Tutorial.yy",},},
+    {"id":{"name":"rm_before_forest","path":"rooms/rm_before_forest/rm_before_forest.yy",},},
     {"id":{"name":"string_wrap","path":"scripts/string_wrap/string_wrap.yy",},},
     {"id":{"name":"snd_music_menu","path":"sounds/snd_music_menu/snd_music_menu.yy",},},
     {"id":{"name":"B_clouds","path":"sprites/B_clouds/B_clouds.yy",},},
@@ -95,6 +97,7 @@
     {"roomId":{"name":"rm_Parallax","path":"rooms/rm_Parallax/rm_Parallax.yy",},},
     {"roomId":{"name":"rm_Credits","path":"rooms/rm_Credits/rm_Credits.yy",},},
     {"roomId":{"name":"rm_Flight","path":"rooms/rm_Flight/rm_Flight.yy",},},
+    {"roomId":{"name":"rm_before_forest","path":"rooms/rm_before_forest/rm_before_forest.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
