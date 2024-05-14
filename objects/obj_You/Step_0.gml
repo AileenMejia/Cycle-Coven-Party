@@ -5,7 +5,6 @@ var jump = keyboard_check(ord("W"));
 var onTheGround = place_meeting(x, y + 1, OWall);
 
 if (xDirection != 0) image_xscale = xDirection;
-
 xSpeed = xDirection * spd;
 ySpeed++;
 
@@ -14,11 +13,11 @@ if (onTheGround)
 	if (xDirection != 0) 
 	{ 
 		sprite_index = spr_You_walk;
-		}
+	}
 	else 
 	{ 
 		sprite_index = spr_You_idle; 
-		}
+	}
 
 	if (jump) 
 	{
