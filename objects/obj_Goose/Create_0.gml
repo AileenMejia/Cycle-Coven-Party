@@ -1,3 +1,3 @@
-spd = 2;
+spd = 7;
 xSpeed = 0;
 ySpeed = 0;
