@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"Cycle_Game",
   "resources":[
@@ -47,10 +47,9 @@
     {"id":{"name":"obj_opening","path":"objects/obj_opening/obj_opening.yy",},},
     {"id":{"name":"obj_Parallax_Control","path":"objects/obj_Parallax_Control/obj_Parallax_Control.yy",},},
     {"id":{"name":"obj_splash","path":"objects/obj_splash/obj_splash.yy",},},
-    {"id":{"name":"obj_text","path":"objects/obj_text/obj_text.yy",},},
+    {"id":{"name":"obj_dialog","path":"objects/obj_dialog/obj_dialog.yy",},},
     {"id":{"name":"obj_You","path":"objects/obj_You/obj_You.yy",},},
     {"id":{"name":"OWall","path":"objects/OWall/OWall.yy",},},
-    {"id":{"name":"rm_before_forest","path":"rooms/rm_before_forest/rm_before_forest.yy",},},
     {"id":{"name":"rm_Credits","path":"rooms/rm_Credits/rm_Credits.yy",},},
     {"id":{"name":"rm_Flight","path":"rooms/rm_Flight/rm_Flight.yy",},},
     {"id":{"name":"rm_Menu","path":"rooms/rm_Menu/rm_Menu.yy",},},
@@ -64,7 +63,6 @@
     {"id":{"name":"B_Foreground","path":"sprites/B_Foreground/B_Foreground.yy",},},
     {"id":{"name":"B_Ground_Path","path":"sprites/B_Ground_Path/B_Ground_Path.yy",},},
     {"id":{"name":"B_Near_Ground","path":"sprites/B_Near_Ground/B_Near_Ground.yy",},},
-    {"id":{"name":"spr_Barrier","path":"sprites/spr_Barrier/spr_Barrier.yy",},},
     {"id":{"name":"spr_Button","path":"sprites/spr_Button/spr_Button.yy",},},
     {"id":{"name":"spr_cabin","path":"sprites/spr_cabin/spr_cabin.yy",},},
     {"id":{"name":"spr_Cat","path":"sprites/spr_Cat/spr_Cat.yy",},},
@@ -97,9 +95,7 @@
     {"roomId":{"name":"rm_Parallax","path":"rooms/rm_Parallax/rm_Parallax.yy",},},
     {"roomId":{"name":"rm_Credits","path":"rooms/rm_Credits/rm_Credits.yy",},},
     {"roomId":{"name":"rm_Flight","path":"rooms/rm_Flight/rm_Flight.yy",},},
-
     {"roomId":{"name":"rm_Tutorial","path":"rooms/rm_Tutorial/rm_Tutorial.yy",},},
-
   ],
   "templateType":"game",
   "TextureGroups":[
