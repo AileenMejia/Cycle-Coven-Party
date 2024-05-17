@@ -1,5 +1,7 @@
 {
-  "FolderOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"Sounds","order":14,"path":"folders/Sprites/Sounds.yy",},
+  ],
   "ResourceOrderSettings":[
     {"name":"fnt_dialog","order":1,"path":"fonts/fnt_dialog/fnt_dialog.yy",},
     {"name":"obj_camera","order":6,"path":"objects/obj_camera/obj_camera.yy",},
