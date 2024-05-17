@@ -2,12 +2,12 @@
 // You can write your code in this editor
 if position_meeting (mouse_x, mouse_y, id)
 {
-	image_index = 1;
+	image_index = 0;
 }
 
 else
 {
-	image_index = 0;
+	image_index = 1;
 }
 
 //change image if left button pushed on it:
