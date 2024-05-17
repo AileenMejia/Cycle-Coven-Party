@@ -29,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_Barrier",
-    "path":"sprites/spr_Barrier/spr_Barrier.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":false,
 }

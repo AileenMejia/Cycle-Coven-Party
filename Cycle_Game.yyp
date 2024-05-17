@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"Cycle_Game",
   "resources":[
@@ -64,12 +64,15 @@
     {"id":{"name":"B_Foreground","path":"sprites/B_Foreground/B_Foreground.yy",},},
     {"id":{"name":"B_Ground_Path","path":"sprites/B_Ground_Path/B_Ground_Path.yy",},},
     {"id":{"name":"B_Near_Ground","path":"sprites/B_Near_Ground/B_Near_Ground.yy",},},
-    {"id":{"name":"spr_Barrier","path":"sprites/spr_Barrier/spr_Barrier.yy",},},
+    {"id":{"name":"intro","path":"sprites/intro/intro.yy",},},
+    {"id":{"name":"spr_bbgoose_idle","path":"sprites/spr_bbgoose_idle/spr_bbgoose_idle.yy",},},
+    {"id":{"name":"spr_branch","path":"sprites/spr_branch/spr_branch.yy",},},
     {"id":{"name":"spr_Button","path":"sprites/spr_Button/spr_Button.yy",},},
     {"id":{"name":"spr_cabin","path":"sprites/spr_cabin/spr_cabin.yy",},},
     {"id":{"name":"spr_Cat","path":"sprites/spr_Cat/spr_Cat.yy",},},
     {"id":{"name":"spr_Crow","path":"sprites/spr_Crow/spr_Crow.yy",},},
     {"id":{"name":"spr_Crowford","path":"sprites/spr_Crowford/spr_Crowford.yy",},},
+    {"id":{"name":"spr_egg","path":"sprites/spr_egg/spr_egg.yy",},},
     {"id":{"name":"spr_Elmer","path":"sprites/spr_Elmer/spr_Elmer.yy",},},
     {"id":{"name":"spr_FlightBG","path":"sprites/spr_FlightBG/spr_FlightBG.yy",},},
     {"id":{"name":"spr_Frog","path":"sprites/spr_Frog/spr_Frog.yy",},},
@@ -80,6 +83,9 @@
     {"id":{"name":"spr_Logo","path":"sprites/spr_Logo/spr_Logo.yy",},},
     {"id":{"name":"spr_Luna","path":"sprites/spr_Luna/spr_Luna.yy",},},
     {"id":{"name":"spr_Menu_BG","path":"sprites/spr_Menu_BG/spr_Menu_BG.yy",},},
+    {"id":{"name":"spr_outsidehouse","path":"sprites/spr_outsidehouse/spr_outsidehouse.yy",},},
+    {"id":{"name":"spr_park_table","path":"sprites/spr_park_table/spr_park_table.yy",},},
+    {"id":{"name":"spr_parkBG","path":"sprites/spr_parkBG/spr_parkBG.yy",},},
     {"id":{"name":"spr_Rabbit","path":"sprites/spr_Rabbit/spr_Rabbit.yy",},},
     {"id":{"name":"spr_splash","path":"sprites/spr_splash/spr_splash.yy",},},
     {"id":{"name":"spr_TeenG_Idle","path":"sprites/spr_TeenG_Idle/spr_TeenG_Idle.yy",},},
@@ -87,6 +93,7 @@
     {"id":{"name":"spr_You_idle","path":"sprites/spr_You_idle/spr_You_idle.yy",},},
     {"id":{"name":"spr_You_Jump","path":"sprites/spr_You_Jump/spr_You_Jump.yy",},},
     {"id":{"name":"spr_You_walk","path":"sprites/spr_You_walk/spr_You_walk.yy",},},
+    {"id":{"name":"spr_splash2","path":"sprites/spr_splash2/spr_splash2.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
@@ -97,9 +104,7 @@
     {"roomId":{"name":"rm_Parallax","path":"rooms/rm_Parallax/rm_Parallax.yy",},},
     {"roomId":{"name":"rm_Credits","path":"rooms/rm_Credits/rm_Credits.yy",},},
     {"roomId":{"name":"rm_Flight","path":"rooms/rm_Flight/rm_Flight.yy",},},
-
     {"roomId":{"name":"rm_Tutorial","path":"rooms/rm_Tutorial/rm_Tutorial.yy",},},
-
   ],
   "templateType":"game",
   "TextureGroups":[
