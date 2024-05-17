@@ -9,9 +9,9 @@
   "canGenerateBitmap":true,
   "charset":0,
   "first":0,
-  "fontName":"Arial",
+  "fontName":"anim_curve_icon_font",
   "glyphOperations":0,
-  "glyphs":{
+  "glyphs":{	
     "32":{"character":32,"h":38,"offset":0,"shift":9,"w":9,"x":2,"y":2,},
     "33":{"character":33,"h":38,"offset":2,"shift":9,"w":5,"x":149,"y":82,},
     "34":{"character":34,"h":38,"offset":1,"shift":12,"w":10,"x":137,"y":82,},
