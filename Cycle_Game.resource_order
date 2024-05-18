@@ -16,7 +16,6 @@
   ],
   "ResourceOrderSettings":[
     {"name":"fnt_dialog","order":1,"path":"fonts/fnt_dialog/fnt_dialog.yy",},
-    {"name":"obj_barrier","order":7,"path":"objects/obj_barrier/obj_barrier.yy",},
     {"name":"obj_branch","order":13,"path":"objects/obj_branch/obj_branch.yy",},
     {"name":"obj_camera","order":3,"path":"objects/obj_camera/obj_camera.yy",},
     {"name":"obj_Credits","order":10,"path":"objects/obj_Credits/obj_Credits.yy",},
@@ -37,6 +36,7 @@
     {"name":"obj_tree","order":14,"path":"objects/obj_tree/obj_tree.yy",},
     {"name":"obj_You","order":6,"path":"objects/obj_You/obj_You.yy",},
     {"name":"Object17","order":16,"path":"objects/Object17/Object17.yy",},
+    {"name":"OWall","order":7,"path":"objects/OWall/OWall.yy",},
     {"name":"tp_outside","order":22,"path":"objects/tp_outside/tp_outside.yy",},
     {"name":"rm_before_forest","order":6,"path":"rooms/rm_before_forest/rm_before_forest.yy",},
     {"name":"rm_Credits","order":2,"path":"rooms/rm_Credits/rm_Credits.yy",},
@@ -51,7 +51,6 @@
     {"name":"B_clouds","order":13,"path":"sprites/B_clouds/B_clouds.yy",},
     {"name":"B_Distant_Ground","order":14,"path":"sprites/B_Distant_Ground/B_Distant_Ground.yy",},
     {"name":"B_Foreground","order":17,"path":"sprites/B_Foreground/B_Foreground.yy",},
-    {"name":"B_Ground_Path","order":15,"path":"sprites/B_Ground_Path/B_Ground_Path.yy",},
     {"name":"B_Near_Ground","order":16,"path":"sprites/B_Near_Ground/B_Near_Ground.yy",},
     {"name":"intro","order":34,"path":"sprites/intro/intro.yy",},
     {"name":"spr_bbgoose_idle","order":32,"path":"sprites/spr_bbgoose_idle/spr_bbgoose_idle.yy",},
@@ -82,8 +81,7 @@
     {"name":"spr_Temp_FlightBG","order":24,"path":"sprites/spr_Temp_FlightBG/spr_Temp_FlightBG.yy",},
     {"name":"spr_tree","order":37,"path":"sprites/spr_tree/spr_tree.yy",},
     {"name":"spr_You_idle","order":8,"path":"sprites/spr_You_idle/spr_You_idle.yy",},
-    {"name":"spr_You_Jump","order":21,"path":"sprites/spr_You_Jump/spr_You_Jump.yy",},
+    {"name":"spr_You_Jumpup","order":39,"path":"sprites/spr_You_Jumpup/spr_You_Jumpup.yy",},
     {"name":"spr_You_walk","order":19,"path":"sprites/spr_You_walk/spr_You_walk.yy",},
-    {"name":"spr_barrier","order":39,"path":"sprites/spr_barrier/spr_barrier.yy",},
   ],
 }
