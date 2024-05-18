@@ -35,9 +35,6 @@
     "name":"spr_You_idle",
     "path":"sprites/spr_You_idle/spr_You_idle.yy",
   },
-  "spriteMaskId":{
-    "name":"spr_You_idle",
-    "path":"sprites/spr_You_idle/spr_You_idle.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }
