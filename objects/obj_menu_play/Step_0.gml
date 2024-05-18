@@ -1,4 +1,4 @@
-// @description Control Sprite && Detect Click
+// l604F7311_0 Control Sprite && Detect Click
 
 if position_meeting (mouse_x, mouse_y, id)
 {
@@ -18,5 +18,7 @@ if position_meeting(mouse_x, mouse_y, id) && mouse_check_button(mb_left)
 
 if position_meeting(mouse_x, mouse_y, id) && mouse_check_button_released(mb_left)
 {
-	room_goto(rm_Tutorial);
+	room_goto(rm_Tutorial); 
+	instance_create_layer(24, 108, "Instances", obj_You);
 }
+
