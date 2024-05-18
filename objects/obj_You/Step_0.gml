@@ -1,54 +1,58 @@
-/// @description Insert description here
+/// @description walk
 // You can write your code in this editor
-var xDirection = keyboard_check(ord("D")) - keyboard_check(ord("A"));
-var jump = keyboard_check(ord("W"));
-var onTheGround = place_meeting(x, y + 1, OWall);
 
-if (xDirection != 0) image_xscale = xDirection;
+key_left = keyboard_check(vk_left);
+key_right = keyboard_check(vk_right);
+key_jump = keyboard_check_pressed(vk_space);
 
-xSpeed = xDirection * spd;
-ySpeed++;
+var move = key_right - key_left;
 
-if (onTheGround) 
+hsp = move * walksp;
+
+if (place_meeting(x+hsp,y,OWall))
 {
-	if (xDirection != 0) 
-	{ 
-		sprite_index = spr_You_walk;
-		}
-	else 
-	{ 
-		sprite_index = spr_You_idle; 
-		}
-
-	if (jump) 
+	while (!place_meeting(x+sign(hsp),y,OWall))
 	{
-		ySpeed = -10;
+		x = x + sign(hsp);
 	}
-} 
-else 
-{
-	sprite_index = spr_You_Jump;
+	hsp = 0;
 }
-
-if (place_meeting(x + xSpeed, y, OWall))
-{
-	xSpeed = 0;
-}
-
-x += xSpeed;
-
-if (place_meeting(x, y + ySpeed, OWall))
-{
-	ySpeed = 0;
-}
-
-y += ySpeed;
-
-/*if(xDirection < 0)
-{
-	image_xscale -= -scale;
-}else {
 	
-	image_xscale = scale;
+x = x + hsp;
+
+if  (place_meeting(x,y+1,OWall)) && (key_jump)
+{
+	vsp = -7;
 }
-image_yscale = scale;
+
+if (place_meeting(x,y+vsp,OWall))
+{
+	while (!place_meeting(x,y+sign(vsp),OWall))
+	{
+         y= y + sign(vsp);
+	}
+	vsp = 0;
+}
+	
+y = y + vsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
