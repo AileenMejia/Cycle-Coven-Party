@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"OWall",
+  "%Name":"obj_barrier",
   "eventList":[
     {"$GMEvent":"","%Name":"","eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"OWall",
+  "name":"obj_barrier",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_barrier",
+    "path":"sprites/spr_barrier/spr_barrier.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
