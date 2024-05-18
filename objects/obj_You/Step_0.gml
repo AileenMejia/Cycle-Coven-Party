@@ -36,13 +36,28 @@ if (place_meeting(x,y+vsp,OWall))
 	
 y = y + vsp;
 
+//animation
 
 
+if (!place_meeting(x,y+1,OWall))
+{
+	sprite_index = spr_You_Jumpup;
+	if (sign(vsp) > 0) image_index = 1; else image_index = 2;
+	}
+else
+{
+	image_speed = 1;
+	if (hsp == 0)
+	{
+		sprite_index = spr_You_idle;
 
+	}
+	else
+	{
+	sprite_index = spr_You_walk;
+	}
 
-
-
-
+if (hsp != 0) image_xscale = sign(hsp);
 
 
 
