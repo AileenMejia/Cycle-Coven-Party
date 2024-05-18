@@ -6,6 +6,7 @@
     {"name":"fnt_dialog","order":1,"path":"fonts/fnt_dialog/fnt_dialog.yy",},
     {"name":"obj_camera","order":6,"path":"objects/obj_camera/obj_camera.yy",},
     {"name":"obj_Credits","order":14,"path":"objects/obj_Credits/obj_Credits.yy",},
+    {"name":"obj_dialog","order":8,"path":"objects/obj_dialog/obj_dialog.yy",},
     {"name":"obj_Exit","order":2,"path":"objects/obj_Exit/obj_Exit.yy",},
     {"name":"obj_Goose","order":12,"path":"objects/obj_Goose/obj_Goose.yy",},
     {"name":"obj_menu_button","order":13,"path":"objects/obj_menu_button/obj_menu_button.yy",},
@@ -15,7 +16,6 @@
     {"name":"obj_opening","order":15,"path":"objects/obj_opening/obj_opening.yy",},
     {"name":"obj_Parallax_Control","order":7,"path":"objects/obj_Parallax_Control/obj_Parallax_Control.yy",},
     {"name":"obj_splash","order":15,"path":"objects/obj_splash/obj_splash.yy",},
-    {"name":"obj_dialog","order":8,"path":"objects/obj_dialog/obj_dialog.yy",},
     {"name":"obj_You","order":9,"path":"objects/obj_You/obj_You.yy",},
     {"name":"OWall","order":11,"path":"objects/OWall/OWall.yy",},
     {"name":"rm_before_forest","order":6,"path":"rooms/rm_before_forest/rm_before_forest.yy",},
@@ -54,5 +54,6 @@
     {"name":"spr_You_idle","order":8,"path":"sprites/spr_You_idle/spr_You_idle.yy",},
     {"name":"spr_You_Jump","order":21,"path":"sprites/spr_You_Jump/spr_You_Jump.yy",},
     {"name":"spr_You_walk","order":19,"path":"sprites/spr_You_walk/spr_You_walk.yy",},
+    {"name":"spr_Barrier","order":29,"path":"sprites/spr_Barrier/spr_Barrier.yy",},
   ],
 }
