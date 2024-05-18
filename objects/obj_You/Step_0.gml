@@ -9,9 +9,9 @@ var move = key_right - key_left;
 
 hsp = move * walksp;
 
-if (place_meeting(x+hsp,y,obj_barrier))
+if (place_meeting(x+hsp,y,OWall))
 {
-	while (!place_meeting(x+sign(hsp),y,obj_barrier))
+	while (!place_meeting(x+sign(hsp),y,OWall))
 	{
 		x = x + sign(hsp);
 	}
@@ -20,14 +20,14 @@ if (place_meeting(x+hsp,y,obj_barrier))
 	
 x = x + hsp;
 
-if  (place_meeting(x,y+1,obj_barrier)) && (key_jump)
+if  (place_meeting(x,y+1,OWall)) && (key_jump)
 {
 	vsp = -7;
 }
 
-if (place_meeting(x,y+vsp,obj_barrier))
+if (place_meeting(x,y+vsp,OWall))
 {
-	while (!place_meeting(x,y+sign(vsp),obj_barrier))
+	while (!place_meeting(x,y+sign(vsp),OWall))
 	{
          y= y + sign(vsp);
 	}
@@ -45,7 +45,6 @@ if (!place_meeting(x,y+1,OWall))
 	if (sign(vsp) > 0) image_index = 1; else image_index = 2;
 	}
 else
-{
 	image_speed = 1;
 	if (hsp == 0)
 	{
